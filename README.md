@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Lirio
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS & Javascript using "The Odin Project" walkthrough
+- 🌱 I’m currently learning HTML/CSS/Javascript, Angular JS & Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me on LinkedIn as John Alfred Lirio
 
